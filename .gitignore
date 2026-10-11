@@ -1,0 +1,6 @@
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.out
+*.exe
+database.dat
